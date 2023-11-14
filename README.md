@@ -43,4 +43,4 @@ gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
 
 Contact Info:
 
-Git: [Dawit Tamiru](https://github.com/dawe014), [Tsinat Abebaw](https://github.com/tsinattt)
+Git: [Dawit Tamiru](https://github.com/dawe014), [Tsinat Kifle](https://github.com/tsinattt)
