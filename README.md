@@ -39,6 +39,8 @@ This repository contains the files for ALX simple_shell. It can be compiled usin
 ### GCC command to compile:
 
 gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
-###Contact Info:
+
+
+Contact Info:
 
 Git: [Dawit Tamiru](https://github.com/dawe014), [Tsinat Abebaw](https://github.com/tsinattt)
